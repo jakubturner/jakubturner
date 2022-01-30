@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Turner</h1>
 <h3 align="center">A passionate frontend developer from Czech Republic</h3>
 
-- 🔭 I’m currently working on [Cogvio](https://www.cogvio.com)
+- 🔭 I’m currently working on [Keboola](https://www.keboola.com)
 
 - 🌱 I’m currently learning **React Native, Ethical Hacking**
 
