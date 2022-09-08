@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub Turner</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
-
-- 🔭 I’m currently working on [Keboola](https://www.keboola.com)
+<h3 align="center">A passionate developer from Czech Republic</h3>
 
 - 🌱 I’m currently learning **React Native, Ethical Hacking**
 
-- 💬 Ask me about **react , nodejs,**
+- 💬 Ask me about **react , nodejs, Python**
 
 - 📫 How to reach me **kuba.turner@gmail.com**
 
